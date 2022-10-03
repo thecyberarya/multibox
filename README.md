@@ -4,7 +4,7 @@ Use `kali linux`, `parrot os` and `ubuntu` Linux distribution inside your termin
 compatibility with software and freedom to use whatever distribution you’re more
 comfortable with.
 
-## `What to use`
+## `Why to use`
 1. Run Any Linux Tools in Any Distribution Like i'm using parrot os but i need to tools but this tools not available in parrot repo if i use distrobox run Kali Linux in  terminal and use tools.
 
 2. You are making tools and software for Linux and test in different Linux distributions.
